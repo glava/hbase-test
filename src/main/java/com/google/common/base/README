@@ -1,0 +1,6 @@
+## Stopwatch from Guava
+
+Hadoop jvm monitor depends on some guava's Stopwatch methods that are deprecated.
+That is why we just pulled this class and set it here in our classpath.
+
+Yeah yeah, we fell dirty and we will have two hot showers tonight just to wash shame from us
